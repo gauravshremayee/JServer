@@ -1,7 +1,7 @@
 {
-  "name": "crudsinfotech-nodeapp",
-  "version": "1.0.0",
-  "description": "A Hello World HTTP server using Node JS",
+  "name": "wittyminds",
+  "version": "x.y.z",
+  "description": "A Hello World HTTP using Node JS",
   "main": "main.js",
   "scripts": {
     "test": "node test.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rchidana/NodeApp"
+    "url": "hhttps://github.com/gauravshremayee/JServer"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "crudsinfotechng@gmail.com",
+  "author": "penguintech@gmail.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
